@@ -6,4 +6,4 @@
 + Hack the Feed Insights - Report : This is the comprehensive report of the analysis in PDF
 
 ## Dashboard Navigation Demo Video
-(Link to Video)[]
+[Link to Video]()
